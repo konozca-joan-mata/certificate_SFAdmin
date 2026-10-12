@@ -1,6 +1,6 @@
 # ☁️ Salesforce Administrator Reference Guide
 
-### Creado por: Joan Mata & Konozca
+### Creado por: Joan Mata
 
 Esta es una **guía de referencia profesional e interactiva** diseñada para servir como base de conocimientos tanto para el trabajo diario como para la preparación del examen **Salesforce Certified Platform Administrator**.
 
@@ -42,4 +42,4 @@ Esta guía ha sido construida basándose en el Trailmix de Trailhead:
 [Prepare for your Salesforce Platform Administrator Credential](https://trailhead.salesforce.com/es/users/strailhead/trailmixes/prepare-for-your-salesforce-administrator-credential)
 
 ---
-*© 2026 Konozca & Joan Mata - Todos los derechos reservados.*
+*© 2026 Joan Mata*
